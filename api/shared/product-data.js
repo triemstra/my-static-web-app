@@ -8,8 +8,8 @@ const data = {
     },
     {
       id: 20,
-      name: 'Sliced bread',
-      description: 'Loaf of fresh sliced wheat bread',
+      name: 'Bananas',
+      description: 'Bunch',
       quantity: 1,
     },
     {
