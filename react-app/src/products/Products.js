@@ -114,7 +114,7 @@ function Products({ history }) {
 
       {showModal && (
         <ModalYesNo
-          message={`Would you like to delete ${productToDelete.name}?`}
+          message={`Hello Would you like to delete ${productToDelete.name}?`}
           onNo={handleCloseModal}
           onYes={handleDeleteFromModal}
         />

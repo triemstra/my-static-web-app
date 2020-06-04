@@ -12,12 +12,6 @@ const data = {
       description: 'Bunch',
       quantity: 1,
     },
-    {
-      id: 30,
-      name: 'Cherries',
-      description: 'Bag of 7 cherries',
-      quantity: 1,
-    },
   ],
 };
 
